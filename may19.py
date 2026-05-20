@@ -1,5 +1,5 @@
 s = "instagram"
-# if step is negative python add 1 at end index if +ve sub 1 from end index
+# if end index positive end_index-1 if end index is negative end_index+1 
 # direction mater most 
 # positve left to right 
 print(s[0:5]) # insta
