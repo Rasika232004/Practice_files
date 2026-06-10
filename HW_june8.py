@@ -1,5 +1,5 @@
 '''
-HW: 1] Create a account on Jeera Project Management Software.  ✅ to open emoji use window + .
+HW: 1] Create a account on Jeera Project Management Software.
     2] write every logical code using functional way.
 '''
 '''
